@@ -21,6 +21,8 @@ A battery-powered e-paper display that counts down the days to Brisbane 2032 (23
          296 x 128 pixels
 ```
 
+![Brisbane 2032 Counter](images/display1.jpg)
+
 ---
 
 ## Hardware
@@ -114,6 +116,19 @@ J  [======= 7P male header (display connector) ===]
 - XIAO plugs into female headers at rows D and G
 - RTC plugs into 4P female header in H/I area
 - Resistors soldered directly into board
+
+
+![Board 1](images/board1.jpg)
+
+![Board 2](images/board2.jpg)
+
+
+## Fritzing Layout
+
+![Proto 1](images/proto1.jpg)
+
+![Proto 2](images/proto2.jpg)
+
 
 ---
 
