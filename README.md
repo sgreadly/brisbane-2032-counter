@@ -298,3 +298,11 @@ Brisbane2032_Counter/
 
 This project is licensed under the GNU General Public License v3.0 --
 see the [LICENSE](LICENSE) file for details.
+
+
+---
+
+<!--START_SECTION:buy-me-a-coffee-->
+<!--END_SECTION:buy-me-a-coffe-->
+
+
